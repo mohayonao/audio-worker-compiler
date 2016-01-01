@@ -1,0 +1,25 @@
+{
+  "name": "audio-worker-compiler",
+  "description": "compiler for audio-worker-shim",
+  "version": "0.0.0",
+  "author": "Nao Yonamine <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/mohayonao/audio-worker-compiler/issues"
+  },
+  "files": [
+    "package.json",
+    "README.md",
+    "index.js"
+  ],
+  "homepage": "http://mohayonao.github.io/audio-worker-compiler/",
+  "keywords": [
+    "audioworker",
+    "compiler"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mohayonao/audio-worker-compiler.git"
+  }
+}
