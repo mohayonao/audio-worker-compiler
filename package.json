@@ -1,10 +1,15 @@
 {
   "name": "audio-worker-compiler",
   "description": "compiler for audio-worker-shim",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
     "url": "https://github.com/mohayonao/audio-worker-compiler/issues"
+  },
+  "dependencies": {
+    "escodegen": "^1.7.1",
+    "esprima": "^2.7.1",
+    "estraverse": "^4.1.1"
   },
   "devDependencies": {
     "eslint": "^1.10.3",
