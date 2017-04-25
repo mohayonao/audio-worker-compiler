@@ -9,6 +9,14 @@
 $ npm install audio-worker-compiler
 ```
 
+## Command Line
+
+You may also use this from the command line:
+
+```bash
+audio-worker-compiler bitcrusher.js > bitcrusher-compiled.js
+```
+
 ## API
 ### AudioWorkerCompiler
 - `compile(code: string): string`
