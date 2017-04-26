@@ -2,6 +2,7 @@
   "name": "audio-worker-compiler",
   "description": "compiler for audio-worker-shim",
   "version": "1.0.0",
+  "bin": "./bin/awc.js",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
     "url": "https://github.com/mohayonao/audio-worker-compiler/issues"
